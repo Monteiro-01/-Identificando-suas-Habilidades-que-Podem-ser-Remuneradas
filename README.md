@@ -89,14 +89,3 @@ Exemplos de prompts:
 - "Sugira ideias de conteúdo para TikTok sobre organização de eventos."  
 
 ---
-
-## 📤 Entrega na Plataforma
-
-Para concluir este exercício, você vai:  
-1. Preencher o **Mapa de Habilidades DIO** com as 3 etapas.  
-2. Subir esse material no seu **GitHub pessoal**.  
-3. Copiar o link do repositório e colar na plataforma da **DIO**.  
-
----
-
-💡 Esse README pode ser usado como guia prático para organizar seu aprendizado e mostrar sua evolução diretamente no GitHub.
