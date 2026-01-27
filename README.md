@@ -1,4 +1,4 @@
-# -Identificando-suas-Habilidades-que-Podem-ser-Remuneradas
+# Identificando-suas-Habilidades-que-Podem-ser-Remuneradas
 # 🗺️ Mapa de Habilidades
 
 Este projeto tem como objetivo ajudar você a identificar suas habilidades, cruzá-las com as necessidades do mercado e encontrar caminhos de monetização.  
